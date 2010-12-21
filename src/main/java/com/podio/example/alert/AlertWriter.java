@@ -62,7 +62,7 @@ public class AlertWriter {
 					alert.getId()).getItems();
 			if (items.size() == 0) {
 				// No items exists, so add the item
-				itemAPI.addItem(appId, mapping.map(alert), true);
+				itemAPI.addItem(appId, mapping.map(alert), false);
 			}
 		}
 	}
