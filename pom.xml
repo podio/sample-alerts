@@ -48,6 +48,13 @@
 			<url>http://creativecommons.org/licenses/MIT/</url>
 		</license>
 	</licenses>
+	<repositories>
+		<repository>
+			<id>oss.sonatype.org</id>
+			<name>Sonatype OSS Repository</name>
+			<url>https://oss.sonatype.org/content/groups/public/</url>
+		</repository>
+	</repositories>
 	<dependencies>
 		<dependency>
 			<groupId>com.podio</groupId>
