@@ -1,4 +1,4 @@
-package com.podio.example.alert;
+package com.podio.sample.alert;
 
 import java.io.FileInputStream;
 import java.util.List;

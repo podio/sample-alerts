@@ -1,4 +1,4 @@
-package com.podio.example.alert;
+package com.podio.sample.alert;
 
 import java.util.ArrayList;
 import java.util.Collections;

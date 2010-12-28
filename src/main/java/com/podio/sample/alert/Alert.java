@@ -1,4 +1,4 @@
-package com.podio.example.alert;
+package com.podio.sample.alert;
 
 public final class Alert {
 
